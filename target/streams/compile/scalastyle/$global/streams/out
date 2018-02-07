@@ -1,0 +1,19 @@
+[0m[[0m[0minfo[0m] [0m[0mscalastyle using config /home/knoldus/IdeaProjects/assignment-scala04-02/scalastyle-config.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mStarting scalastyle[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/IdeaProjects/assignment-scala04-02/src/main/scala/edu/knoldus/HashTag.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/IdeaProjects/assignment-scala04-02/src/main/scala/edu/knoldus/HashTag.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/IdeaProjects/assignment-scala04-02/src/main/scala/edu/knoldus/TweetOperation.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/IdeaProjects/assignment-scala04-02/src/main/scala/edu/knoldus/TweetOperation.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/IdeaProjects/assignment-scala04-02/src/main/scala/edu/knoldus/AverageCount.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/IdeaProjects/assignment-scala04-02/src/main/scala/edu/knoldus/AverageCount.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/IdeaProjects/assignment-scala04-02/src/main/scala/edu/knoldus/TweetCount.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/IdeaProjects/assignment-scala04-02/src/main/scala/edu/knoldus/TweetCount.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/IdeaProjects/assignment-scala04-02/src/main/scala/edu/knoldus/InputValues.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/IdeaProjects/assignment-scala04-02/src/main/scala/edu/knoldus/InputValues.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/IdeaProjects/assignment-scala04-02/src/main/scala/utils/Configurations.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/IdeaProjects/assignment-scala04-02/src/main/scala/utils/Configurations.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Processed 6 file(s)[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 errors[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 warnings[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 infos[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Finished in 6 ms[0m
