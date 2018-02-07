@@ -1,0 +1,21 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/knoldus/IdeaProjects/assignment-scala04-02/target/scala-2.12/assignment-scala04-02_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/knoldus/TweetCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-scala04-02/target/scala-2.12/classes/edu/knoldus/TweetCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/knoldus[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-scala04-02/target/scala-2.12/classes/edu/knoldus[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/knoldus/TweetCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-scala04-02/target/scala-2.12/classes/edu/knoldus/TweetCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/knoldus/InputValues.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-scala04-02/target/scala-2.12/classes/edu/knoldus/InputValues.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	log4j.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-scala04-02/target/scala-2.12/classes/log4j.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/knoldus/InputValues$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-scala04-02/target/scala-2.12/classes/edu/knoldus/InputValues$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-scala04-02/target/scala-2.12/classes/edu[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-scala04-02/target/scala-2.12/classes/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	edu/knoldus/TweetCount$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/assignment-scala04-02/target/scala-2.12/classes/edu/knoldus/TweetCount$delayedInit$body.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
